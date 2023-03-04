@@ -134,7 +134,7 @@ header{
 .tag-name strong{
     font-weight: 700;
     font-size: 20px;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #guest-section{
@@ -215,7 +215,7 @@ header{
 #names-flex strong{
     font-style: italic;
     font-weight: 700;
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 .deng-name{
